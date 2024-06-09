@@ -1,6 +1,6 @@
 # Todo List App
 
-Todo List App là một ứng dụng di động được xây dựng bằng Flutter. Ứng dụng cho phép người dùng quản lý các mục (items) bằng cách thêm, chỉnh sửa và xóa chúng. Dữ liệu được lưu trữ cục bộ bằng SQLite.
+Todo List App là một ứng dụng di động được xây dựng bằng Flutter. Ứng dụng cho phép người dùng quản lý các mục (items) bằng cách thêm, chỉnh sửa và xóa chúng. Dữ liệu được lưu trữ cục bộ bằng localstore.
 
 ## Tính năng
 
@@ -8,7 +8,7 @@ Todo List App là một ứng dụng di động được xây dựng bằng Flut
 - **Trang thêm mục (Add Item Page):** Cho phép người dùng thêm một mục mới vào danh sách.
 - **Trang chỉnh sửa mục (Edit Item Page):** Cho phép người dùng chỉnh sửa thông tin của một mục đã tồn tại.
 - **Chức năng xóa mục:** Cho phép người dùng xóa một mục khỏi danh sách.
-- **Lưu trữ dữ liệu cục bộ:** Sử dụng SQLite để lưu trữ dữ liệu.
+- **Lưu trữ dữ liệu cục bộ:** Sử dụng localstore để lưu trữ dữ liệu.
 
 ## Cài đặt
 
